@@ -1,6 +1,3 @@
 Test git quick start demo
  , then more changes from myfeaturebranch too
  adding changes before rebasing conflicts
-
-
-and some more conflicting changes
