@@ -2,6 +2,3 @@ Test git quick start demo
  , then more changes from myfeaturebranch too
  adding changes before rebasing conflicts
 sample text
-emergency fix after stash
-more sample text
-aaaaand some more changes.
