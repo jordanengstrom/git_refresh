@@ -2,4 +2,3 @@ tag compare
 Test git quick start demo
  , then more changes from myfeaturebranch too
  adding changes before rebasing conflicts
-sample text
